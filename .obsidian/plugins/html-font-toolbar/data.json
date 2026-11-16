@@ -1,0 +1,152 @@
+{
+  "visible": true,
+  "customText": "#e0313a",
+  "customHighlight": "#ffd500",
+  "textColors": [
+    {
+      "name": "Красный",
+      "value": "#E06C75"
+    },
+    {
+      "name": "Оранжевый",
+      "value": "#D99A5B"
+    },
+    {
+      "name": "Желтый",
+      "value": "#D6B85A"
+    },
+    {
+      "name": "Зеленый",
+      "value": "#8FBF8F"
+    },
+    {
+      "name": "Бирюзовый",
+      "value": "#65B9AD"
+    },
+    {
+      "name": "Голубой",
+      "value": "#70A9D8"
+    },
+    {
+      "name": "Синий",
+      "value": "#8295D0"
+    },
+    {
+      "name": "Фиолетовый",
+      "value": "#AE91CE"
+    },
+    {
+      "name": "Розовый",
+      "value": "#D58EAD"
+    }
+  ],
+  "highlights": [
+    {
+      "name": "Красный",
+      "value": "rgba(224, 108, 117, 0.28)"
+    },
+    {
+      "name": "Оранжевый",
+      "value": "rgba(217, 154, 91, 0.30)"
+    },
+    {
+      "name": "Желтый",
+      "value": "rgba(214, 184, 90, 0.32)"
+    },
+    {
+      "name": "Зеленый",
+      "value": "rgba(143, 191, 143, 0.30)"
+    },
+    {
+      "name": "Бирюзовый",
+      "value": "rgba(101, 185, 173, 0.30)"
+    },
+    {
+      "name": "Голубой",
+      "value": "rgba(112, 169, 216, 0.30)"
+    },
+    {
+      "name": "Синий",
+      "value": "rgba(130, 149, 208, 0.30)"
+    },
+    {
+      "name": "Фиолетовый",
+      "value": "rgba(174, 145, 206, 0.30)"
+    },
+    {
+      "name": "Розовый",
+      "value": "rgba(213, 142, 173, 0.30)"
+    }
+  ],
+  "sizes": [
+    {
+      "name": "Small",
+      "value": "0.85em"
+    },
+    {
+      "name": "Normal",
+      "value": ""
+    },
+    {
+      "name": "Large",
+      "value": "1.25em"
+    },
+    {
+      "name": "XL",
+      "value": "1.6em"
+    },
+    {
+      "name": "XXL",
+      "value": "2em"
+    }
+  ],
+  "fonts": [
+    {
+      "name": "Default",
+      "value": ""
+    },
+    {
+      "name": "Serif",
+      "value": "Georgia, serif"
+    },
+    {
+      "name": "Mono",
+      "value": "Consolas, monospace"
+    },
+    {
+      "name": "Hand",
+      "value": "'Segoe Script', 'Comic Sans MS', cursive"
+    },
+    {
+      "name": "Montserrat",
+      "value": "'Montserrat SemiBold'"
+    }
+  ],
+  "symbols": [
+    {
+      "name": "Math",
+      "value": "± × ÷ ≈ ≠ ≤ ≥ ° ∞ ∑ √ ∫ ∂ ∆ ½ ¼ ¾"
+    },
+    {
+      "name": "Greek",
+      "value": "α β γ δ ε θ λ μ π ρ σ τ φ ψ ω Ω Σ Δ Φ"
+    },
+    {
+      "name": "Arrows",
+      "value": "→ ← ↑ ↓ ↔ ⇒ ⇐ ⇔ ↳ ⇧"
+    },
+    {
+      "name": "Punctuation",
+      "value": "— – … « » “ ” ‘ ’ † ‡ § ¶ • ·"
+    },
+    {
+      "name": "Currency",
+      "value": "€ £ ¥ ¢ ₹ ₽ ¤"
+    },
+    {
+      "name": "Marks",
+      "value": "✓ ✗ ★ ☆ ☐ ☑ ♥ ⚠ © ® ™"
+    }
+  ],
+  "recentSymbols": []
+}
