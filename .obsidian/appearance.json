@@ -1,5 +1,9 @@
 {
   "showRibbon": false,
   "cssTheme": "AnuPpuccin",
-  "accentColor": "#8c1829"
+  "accentColor": "#8c1829",
+  "enabledCssSnippets": [
+    "pdf-font",
+    "page-break"
+  ]
 }

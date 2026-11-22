@@ -3,11 +3,11 @@
   "obsidian-latex-suite",
   "obsidian-git",
   "table-editor-obsidian",
-  "tasknotes",
   "obsidian-icon-folder",
   "advanced-canvas",
   "pdf-plus",
   "obsidian-excalidraw-plugin",
   "html-font-toolbar",
-  "obsidian-livesync"
+  "obsidian-livesync",
+  "folder-pdf-export"
 ]

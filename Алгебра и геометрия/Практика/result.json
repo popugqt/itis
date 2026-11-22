@@ -1,0 +1,2338 @@
+{
+ "name": "Алгем",
+ "type": "private_group",
+ "id": 5490712097,
+ "messages": [
+  {
+   "id": 16212,
+   "type": "service",
+   "date": "2026-11-08T16:05:39",
+   "date_unixtime": "1794143139",
+   "actor": "Даниил",
+   "actor_id": "user7473527556",
+   "action": "clear_history",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 16214,
+   "type": "message",
+   "date": "2026-11-08T16:05:56",
+   "date_unixtime": "1794143156",
+   "edited": "2026-11-08T20:52:51",
+   "edited_unixtime": "1794160371",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "text": [
+    {
+     "type": "bold",
+     "text": "Контрольная работа №1"
+    },
+    "\n1) 8.2 (",
+    {
+     "type": "hashtag",
+     "text": "#СистемыСПараметром"
+    },
+    ")\n2) 8.6 (",
+    {
+     "type": "hashtag",
+     "text": "#МетодКрамера"
+    },
+    ")\n3) 18.3 (",
+    {
+     "type": "hashtag",
+     "text": "#МатричныеУравнения"
+    },
+    ")\n4) 18.8 (",
+    {
+     "type": "hashtag",
+     "text": "#АлгебраическоеДополнение"
+    },
+    ")\n5) 13.1 (ж, з, и, к) (",
+    {
+     "type": "hashtag",
+     "text": "#ПоискОпределителя"
+    },
+    ")"
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "Контрольная работа №1"
+    },
+    {
+     "type": "plain",
+     "text": "\n1) 8.2 ("
+    },
+    {
+     "type": "hashtag",
+     "text": "#СистемыСПараметром"
+    },
+    {
+     "type": "plain",
+     "text": ")\n2) 8.6 ("
+    },
+    {
+     "type": "hashtag",
+     "text": "#МетодКрамера"
+    },
+    {
+     "type": "plain",
+     "text": ")\n3) 18.3 ("
+    },
+    {
+     "type": "hashtag",
+     "text": "#МатричныеУравнения"
+    },
+    {
+     "type": "plain",
+     "text": ")\n4) 18.8 ("
+    },
+    {
+     "type": "hashtag",
+     "text": "#АлгебраическоеДополнение"
+    },
+    {
+     "type": "plain",
+     "text": ")\n5) 13.1 (ж, з, и, к) ("
+    },
+    {
+     "type": "hashtag",
+     "text": "#ПоискОпределителя"
+    },
+    {
+     "type": "plain",
+     "text": ")"
+    }
+   ]
+  },
+  {
+   "id": 16215,
+   "type": "message",
+   "date": "2026-11-08T16:25:01",
+   "date_unixtime": "1794144301",
+   "edited": "2026-11-08T16:29:12",
+   "edited_unixtime": "1794144552",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#МетодКрамера"
+       }
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Метод Крамера"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "на примере 8.6 пункт а"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{cases} 2x_1-x_2=1 \\\\ x_1+16x_2=17 \\end{cases} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "1, 17 - свободные коэффициенты"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Метод Крамера"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "x_1=\\frac{\\Delta_x_1}{\\Delta}\\quad x_2=\\frac{\\Delta_x_2}{\\Delta}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "где "
+        },
+        {
+         "type": "math",
+         "source": "\\Delta"
+        },
+        {
+         "type": "plain",
+         "text": " - определитель системы,"
+        }
+       ]
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "а "
+        },
+        {
+         "type": "math",
+         "source": "\\Delta_i"
+        },
+        {
+         "type": "plain",
+         "text": " - определитель столбца "
+        },
+        {
+         "type": "math",
+         "source": "i"
+        },
+        {
+         "type": "plain",
+         "text": "-ой переменной"
+        }
+       ]
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Записываем матрицу системы"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{pmatrix} 2 & -1 \\\\ 1 & 16 \\end{pmatrix} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "И находим "
+        },
+        {
+         "type": "math",
+         "source": "\\Delta"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\Delta = \\begin{vmatrix} 2 & -1 \\\\ 1 & 16 \\end{vmatrix} = \\]\\\\=2*16-(-1*1)=\\\\ =32+1=33\\\\"
+     },
+     {
+      "type": "math",
+      "formula": "\\Delta=33"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Дальше находим "
+        },
+        {
+         "type": "math",
+         "source": "$\\Delta_x_1, \\Delta_x_2"
+        },
+        {
+         "type": "plain",
+         "text": " заменяя столбец переменных, на столбец свободных членов"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\Delta_x_1=\\[ \\begin{vmatrix} 1 & -1 \\\\ 17 & 16 \\end{vmatrix} \\]=\\\\ = 16+17=33"
+     },
+     {
+      "type": "math",
+      "formula": "\\Delta_x_2=\\[ \\begin{vmatrix} 2 & 1 \\\\ 1 & 17 \\end{vmatrix} \\]=\\\\ =34-1=33"
+     },
+     {
+      "type": "math",
+      "formula": "$\\Delta_x_1=33\\\\\\Delta_x_2=33$"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Находим переменные"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "x_1=\\frac{\\Delta_x_1}{\\Delta}=\\frac{33}{33}=1\\\\x_2=\\frac{\\Delta_x_2}{\\Delta}=\\frac{33}{33}=1"
+     },
+     {
+      "type": "math",
+      "formula": "x_1=1\\\\ x_2=1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 16246,
+   "type": "message",
+   "date": "2026-11-08T17:12:11",
+   "date_unixtime": "1794147131",
+   "edited": "2026-11-08T17:15:59",
+   "edited_unixtime": "1794147359",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#МатричныеУравнения"
+       }
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Матричные уравнения"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Что нужно помнить:"
+      }
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "A+B"
+          },
+          {
+           "type": "plain",
+           "text": " - возможно только, если матрицы одинакового размера"
+          }
+         ]
+        },
+        "num": "1"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "AB"
+          },
+          {
+           "type": "plain",
+           "text": " - число столбцов "
+          },
+          {
+           "type": "math",
+           "source": "A"
+          },
+          {
+           "type": "plain",
+           "text": " = числу строк "
+          },
+          {
+           "type": "math",
+           "source": "B"
+          },
+          {
+           "type": "plain",
+           "text": "  "
+          }
+         ]
+        },
+        "num": "2"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "math",
+         "source": "AB\\ne BA"
+        },
+        "num": "3"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "A^{-1}"
+          },
+          {
+           "type": "plain",
+           "text": " - существует только, если "
+          },
+          {
+           "type": "math",
+           "source": "\\det{A}\\ne 0"
+          }
+         ]
+        },
+        "num": "4"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "math",
+         "source": "AE=EA=A"
+        },
+        "num": "5"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "math",
+         "source": "(AB)^{-1}=B^{-1}A^{-1}"
+        },
+        "num": "6"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "\nСлучай 1"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "AX=B"
+     },
+     {
+      "type": "math",
+      "formula": "A^{-1}AX=A^{-1}B"
+     },
+     {
+      "type": "math",
+      "formula": "EX=A^{-1}B"
+     },
+     {
+      "type": "math",
+      "formula": "X=A^{-1}B"
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Случай 2"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "XA=B"
+     },
+     {
+      "type": "math",
+      "formula": "XAA^{-1}=BA^{-1}"
+     },
+     {
+      "type": "math",
+      "formula": "XE=BA^{-1}"
+     },
+     {
+      "type": "math",
+      "formula": "X=BA^{-1}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Случай 3"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "AXB=C"
+     },
+     {
+      "type": "math",
+      "formula": "A^{-1}AXBB^{-1}=A^{-1}CB^{-1}"
+     },
+     {
+      "type": "math",
+      "formula": "X=A^{-1}CB^{-1}"
+     }
+    ]
+   }
+  },
+  {
+   "id": 16247,
+   "type": "message",
+   "date": "2026-11-08T17:20:56",
+   "date_unixtime": "1794147656",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#ЭлементарныеПреобразования"
+       }
+      }
+     },
+     {
+      "type": "table",
+      "title": {
+       "type": "bold",
+       "text": {
+        "type": "plain",
+        "text": "Элементарные преобразования"
+       }
+      },
+      "bordered": true,
+      "striped": false,
+      "compact": true,
+      "rows": [
+       {
+        "cells": [
+         {
+          "text": {
+           "type": "plain",
+           "text": "Преобразование"
+          },
+          "header": true,
+          "align": "left",
+          "vertical_align": "top"
+         },
+         {
+          "text": {
+           "type": "concat",
+           "text": [
+            {
+             "type": "plain",
+             "text": "Влияние на "
+            },
+            {
+             "type": "math",
+             "source": "\\det{A}"
+            }
+           ]
+          },
+          "header": true,
+          "align": "left",
+          "vertical_align": "top"
+         }
+        ]
+       },
+       {
+        "cells": [
+         {
+          "text": {
+           "type": "plain",
+           "text": "Перестановка двух строк"
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         },
+         {
+          "text": {
+           "type": "plain",
+           "text": "Определитель меняет знак"
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         }
+        ]
+       },
+       {
+        "cells": [
+         {
+          "text": {
+           "type": "concat",
+           "text": [
+            {
+             "type": "plain",
+             "text": "Умножение строки на число "
+            },
+            {
+             "type": "math",
+             "source": "k"
+            }
+           ]
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         },
+         {
+          "text": {
+           "type": "concat",
+           "text": [
+            {
+             "type": "plain",
+             "text": "Определитель умножается на число "
+            },
+            {
+             "type": "math",
+             "source": "k"
+            }
+           ]
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         }
+        ]
+       },
+       {
+        "cells": [
+         {
+          "text": {
+           "type": "concat",
+           "text": [
+            {
+             "type": "plain",
+             "text": "Прибавление к строке другой строки, умноженной на число "
+            },
+            {
+             "type": "math",
+             "source": "k"
+            }
+           ]
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         },
+         {
+          "text": {
+           "type": "plain",
+           "text": "Определитель не меняется"
+          },
+          "header": false,
+          "align": "left",
+          "vertical_align": "top"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 16248,
+   "type": "message",
+   "date": "2026-11-08T17:42:28",
+   "date_unixtime": "1794148948",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#МетодГаусса"
+       }
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "bold",
+       "text": {
+        "type": "plain",
+        "text": "Метод Гаусса"
+       }
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{cases} 2x_1+x_2-x_3=8\\\\ -3x_1-x_2+2x_3=-11\\\\ -2x_1+x_2+2x_3=-3 \\end{cases} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Записываем расширенную матрицу"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -3&-1&2&-11\\\\ -2&1&2&-3 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Приводим матрицу к ступенчатому виду"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -3&-1&2&-11\\\\ -2&1&2&-3 \\end{array} \\right) \\]\\iff \\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -1&0&1&-3\\\\ -2&1&2&-3 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -1&0&1&-3\\\\ -2&1&2&-3 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 2&1&-1&8\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} 0&1&1&2\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 0&1&1&2\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} 0&0&1&-1\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 0&0&1&-1\\\\ -1&0&1&-3\\\\ 0&1&0&3 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} -1&0&1&-3\\\\ 0&1&0&3\\\\ 0&0&1&-1 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} -1&0&1&-3\\\\ 0&1&0&3\\\\ 0&0&1&-1 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} 1&0&-1&3\\\\ 0&1&0&3\\\\ 0&0&1&-1 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\left( \\begin{array}{ccc|c} 1&0&-1&3\\\\ 0&1&0&3\\\\ 0&0&1&-1 \\end{array} \\right) \\]\\iff\\[ \\left( \\begin{array}{ccc|c} 1&0&0&2\\\\ 0&1&0&3\\\\ 0&0&1&-1 \\end{array} \\right) \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "И получаем"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{cases} x_1=2\\\\ x_2=3\\\\ x_3=-1 \\end{cases} \\]"
+     }
+    ]
+   }
+  },
+  {
+   "id": 16249,
+   "type": "message",
+   "date": "2026-11-08T20:08:20",
+   "date_unixtime": "1794157700",
+   "edited": "2026-11-08T20:22:26",
+   "edited_unixtime": "1794158546",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "hashtag",
+         "text": {
+          "type": "plain",
+          "text": "#ОбратныеМатрицы"
+         }
+        },
+        {
+         "type": "plain",
+         "text": " "
+        },
+        {
+         "type": "hashtag",
+         "text": {
+          "type": "plain",
+          "text": "#АлгебраическоеДополнение"
+         }
+        }
+       ]
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Нахождение обратной матрицы через алгебраическое дополнение"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "quote",
+      "content": "text",
+      "pullquote": false,
+      "text": {
+       "type": "plain",
+       "text": "Алгебраическое дополнение элемента матрицы - это его минор, умноженный на знак, зависящий от положения элемента"
+      },
+      "caption": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "A_{ij}=(-1)^{i+j}M_{ij}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Поиск обратной матрицы происходит по формуле"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "A^{-1}=\\frac{1}{\\det{A}}C^T"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Где "
+        },
+        {
+         "type": "math",
+         "source": "C^T"
+        },
+        {
+         "type": "plain",
+         "text": " - транспонированная матрица алгебраических дополнений"
+        }
+       ]
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Алгоритм:"
+      }
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Находим определитель исходной матрицы"
+        },
+        "num": "1"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Вычисляем все алгебраическими дополнениями"
+        },
+        "num": "2"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Составляем из них новую матрицу"
+        },
+        "num": "3"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Транспонируем ее"
+        },
+        "num": "4"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Делим все элементы на определитель исходной матрицы"
+        },
+        "num": "5"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Пример"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{cases} 2x_1+x_2=5\\\\ x_1+x_2=3 \\end{cases} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Запишем в матричном виде"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "AX=B"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{pmatrix} 2&1\\\\ 1&1 \\end{pmatrix} \\]\\[ \\begin{pmatrix} x\\\\y \\end{pmatrix} \\]=\\[ \\begin{pmatrix} 5\\\\3 \\end{pmatrix} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Найдем "
+        },
+        {
+         "type": "math",
+         "source": "\\det{A}"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\det{A}=2*1-1*1=1"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Найдем алгебраические дополнения"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "C_{11}=(-1)^{1+1}|1|=1\\\\ C_{12}=(-1)^{1+2}|1|=-1\\\\ C_{21}=(-1)^{2+1}|1|=-1\\\\ C_{22}=(-1)^{2+2}|2|=2"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Составляем матрицу алгебраических дополнений"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "C=\\[ \\begin{pmatrix} 1&-1\\\\ -1&2 \\end{pmatrix} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Транспонируем"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "C^T=\\[ \\begin{pmatrix} 1&-1\\\\ -1&2 \\end{pmatrix} \\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Решаем уравнение"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "X=A^{-1}B"
+     },
+     {
+      "type": "math",
+      "formula": "X=\\[ \\begin{pmatrix} 1&-1\\\\ -1&2 \\end{pmatrix} \\]\\[ \\begin{pmatrix} 5\\\\3 \\end{pmatrix} \\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[ \\begin{cases} x=5-3=2\\\\ y=-5+6=1 \\end{cases} \\]"
+     },
+     {
+      "type": "math",
+      "formula": "x=2,\\quad y=1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 16250,
+   "type": "message",
+   "date": "2026-11-08T20:22:07",
+   "date_unixtime": "1794158527",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#УмножениеМатриц"
+       }
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Умножение матриц"
+      }
+     },
+     {
+      "type": "quote",
+      "content": "text",
+      "pullquote": false,
+      "text": {
+       "type": "plain",
+       "text": "Строка первой матрицы на столбец второй матрицы"
+      },
+      "caption": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Пример\n"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "A= \\begin{pmatrix} 1&2\\\\3&4 \\end{pmatrix},\\quad B=\\begin{pmatrix}5&6\\\\7&8\\end{pmatrix}"
+     },
+     {
+      "type": "math",
+      "formula": "AB=\\begin{pmatrix} 1*5+2*7&1*6+2*8\\\\ 3*5+4*7&3*6+4*8 \\end{pmatrix}"
+     },
+     {
+      "type": "math",
+      "formula": "AB=\\begin{pmatrix} 19&22\\\\43&50 \\end{pmatrix}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Три правила:"
+      }
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Умножаем строку на столбец, а не элемент на элемент"
+          }
+         }
+        ],
+        "num": "1"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Перемножаем соответствующие элементы и складываем"
+          }
+         }
+        ],
+        "num": "2"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Число столбцов первой матрицы должно ровняться числу строк второй"
+          }
+         }
+        ],
+        "num": "3"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "AB\\ne BA"
+          }
+         }
+        ],
+        "num": "4"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": 16371,
+   "type": "message",
+   "date": "2026-11-08T20:46:35",
+   "date_unixtime": "1794159995",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "hashtag",
+       "text": {
+        "type": "plain",
+        "text": "#ПоискОпределителя"
+       }
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Как найти определитель матрицы"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Для матрицы 2x2:"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "A=\\begin{pmatrix}a&b\\\\c&d"
+     },
+     {
+      "type": "math",
+      "formula": "\\det{A}=a*d-b*c"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "\n"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Для матрицы 3x3:\n\nПравило Саррюса"
+      }
+     },
+     {
+      "type": "quote",
+      "content": "text",
+      "pullquote": false,
+      "text": {
+       "type": "plain",
+       "text": "Сумма произведений трёх диагоналей вниз минус сумма произведений трёх диагоналей вверх."
+      },
+      "caption": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "A=\\begin{pmatrix}a&b&c\\\\d&e&f\\\\g&h&i"
+     },
+     {
+      "type": "math",
+      "formula": "\\det{A}=aei+bfg+cdh-ceg-bdi-afh"
+     },
+     {
+      "type": "photo",
+      "photo_id": "5442685877684478739",
+      "photo": "photos/photo_1@08-11-2026_20-46-35.jpg",
+      "photo_file_size": 102580,
+      "width": 1024,
+      "height": 767,
+      "spoiler": false,
+      "caption": {
+       "text": {
+        "type": "empty"
+       },
+       "credit": {
+        "type": "empty"
+       }
+      }
+     }
+    ]
+   }
+  },
+  {
+   "id": 16393,
+   "type": "message",
+   "date": "2026-11-08T20:52:34",
+   "date_unixtime": "1794160354",
+   "edited": "2026-11-08T21:59:51",
+   "edited_unixtime": "1794164391",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "hashtag",
+         "text": {
+          "type": "plain",
+          "text": "#СистемыСПараметром"
+         }
+        },
+        {
+         "type": "plain",
+         "text": "\n"
+        }
+       ]
+      }
+     },
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Решение систем с параметром"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Алгоритм решения:"
+      }
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Записываем расширенную матрицу системы"
+        },
+        "num": "1"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "plain",
+           "text": "Применяем метод Гаусса, стараясь не делить на выражения с "
+          },
+          {
+           "type": "math",
+           "source": "\\lambda"
+          }
+         ]
+        },
+        "num": "2"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "plain",
+         "text": "Находим критические значения параметра (когда коэффициент, на который собираемся делить, равен нулю)"
+        },
+        "num": "3"
+       },
+       {
+        "task_state": "none",
+        "content": "text",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "plain",
+           "text": "Разбираем случаи отдельно:\n- коэффициенты позволяют найти все неизвестные - одно решение;\n- есть свободные переменные - бесконечно много решений;\n- появляется противоречие "
+          },
+          {
+           "type": "math",
+           "source": "0=c,c\\ne0"
+          },
+          {
+           "type": "plain",
+           "text": " - решений нет;\n"
+          }
+         ]
+        },
+        "num": "4"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "concat",
+           "text": [
+            {
+             "type": "plain",
+             "text": "Записываем ответ для каждого диапазона "
+            },
+            {
+             "type": "math",
+             "source": "\\lambda"
+            }
+           ]
+          }
+         }
+        ],
+        "num": "5"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "divider"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Пример"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases} x+y+z=1\\\\ x+\\lambda y+z=1\\\\ x+y+\\lambda z=1"
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Записываем расширенную матрицу"
+          }
+         }
+        ],
+        "num": "1"
+       }
+      ]
+     },
+     {
+      "type": "math",
+      "formula": "\\[\\left(\\begin{array}{ccc|c} 1&1&1&1\\\\ 1&\\lambda&1&1\\\\ 1&1&\\lambda&1 \\end{array}\\right)\\]"
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "start": 2,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Решим, используя метод Гаусса"
+          }
+         }
+        ],
+        "num": "2"
+       }
+      ]
+     },
+     {
+      "type": "math",
+      "formula": "\\[\\left(\\begin{array}{ccc|c} 1&1&1&1\\\\ 1&\\lambda&1&1\\\\ 1&1&\\lambda&1 \\end{array}\\right)\\]\\iff\\[\\left(\\begin{array}{ccc|c} 1&1&1&1\\\\ 0&\\lambda-1&0&0\\\\ 1&1&\\lambda&1 \\end{array}\\right)\\]"
+     },
+     {
+      "type": "math",
+      "formula": "\\[\\left(\\begin{array}{ccc|c} 1&1&1&1\\\\ 0&\\lambda-1&0&0\\\\ 1&1&\\lambda&1 \\end{array}\\right)\\]\\iff\\[\\left(\\begin{array}{ccc|c} 1&1&1&1\\\\ 0&\\lambda-1&0&0\\\\ 0&0&\\lambda-1&0 \\end{array}\\right)\\]"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Получаем систему"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases} x+y+z=1\\\\ (\\lambda-1)y=0\\\\ (\\lambda-1)z=0"
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "start": 3,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "plain",
+           "text": "Разбираем случаи"
+          }
+         },
+         {
+          "type": "list",
+          "kind": "ordered",
+          "reversed": false,
+          "items": [
+           {
+            "task_state": "none",
+            "content": "blocks",
+            "blocks": [
+             {
+              "type": "paragraph",
+              "text": {
+               "type": "concat",
+               "text": [
+                {
+                 "type": "math",
+                 "source": "\\lambda\\ne1"
+                },
+                {
+                 "type": "plain",
+                 "text": "\nДелим на "
+                },
+                {
+                 "type": "math",
+                 "source": "(\\lambda-1)"
+                },
+                {
+                 "type": "plain",
+                 "text": "\n"
+                }
+               ]
+              }
+             },
+             {
+              "type": "math",
+              "formula": "\\begin{cases} x=1\\\\ y=0\\\\ z=0"
+             }
+            ],
+            "num": "1"
+           },
+           {
+            "task_state": "none",
+            "content": "blocks",
+            "blocks": [
+             {
+              "type": "paragraph",
+              "text": {
+               "type": "concat",
+               "text": [
+                {
+                 "type": "math",
+                 "source": "\\lambda=1"
+                },
+                {
+                 "type": "plain",
+                 "text": "\n"
+                }
+               ]
+              }
+             },
+             {
+              "type": "math",
+              "formula": "\\begin{cases} x=1-y-z\\\\ y=0\\\\ z=0"
+             }
+            ],
+            "num": "2"
+           }
+          ]
+         }
+        ],
+        "num": "3"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Итог:\n"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases} \\lambda\\ne1:\\text{одно решение,}\\\\ \\lambda=1:\\text{бесконечно много решений}"
+     }
+    ]
+   }
+  },
+  {
+   "id": 17343,
+   "type": "message",
+   "date": "2026-11-12T10:29:02",
+   "date_unixtime": "1794468542",
+   "edited": "2026-11-12T10:29:14",
+   "edited_unixtime": "1794468554",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "file": "files/Kostrikin-2009.pdf",
+   "file_name": "Kostrikin-2009.pdf",
+   "file_size": 2141249,
+   "mime_type": "application/pdf",
+   "text": "Сборник",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сборник"
+    }
+   ]
+  },
+  {
+   "id": 17344,
+   "type": "service",
+   "date": "2026-11-12T10:29:08",
+   "date_unixtime": "1794468548",
+   "actor": "Даниил",
+   "actor_id": "user7473527556",
+   "action": "pin_message",
+   "message_id": 17343,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 17350,
+   "type": "message",
+   "date": "2026-11-12T12:43:46",
+   "date_unixtime": "1794476626",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "№8.2 Исследовать систему и найти общее решение в зависимости от значений параметра "
+        },
+        {
+         "type": "math",
+         "source": "\\lambda"
+        },
+        {
+         "type": "plain",
+         "text": ":"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\left{a)}\\begin{cases} 8x_1+6x_2+3x_3+2x_4=5\\\\ -12x_1-3x_2-3x_3+3x_4=-6\\\\ 4x_1+5x_2+2x_3+3x_4=3\\\\ \\lambda x_1+4x_2+x_3+4x_4=2"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Строим расширенную матрицу и приводим матрицу к ступенчатому виду"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\left(\\begin{array}{cccc|c} 8&6&3&2&5\\\\ -12&-3&-3&3&-6\\\\ 4&5&2&3&3\\\\ \\lambda&4&1&4&2 \\end{array}\\right)"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Далее будут использоваться обозначения "
+        },
+        {
+         "type": "math",
+         "source": "R_1,R_2, R_3 , R_4"
+        },
+        {
+         "type": "plain",
+         "text": " - "
+        },
+        {
+         "type": "bold",
+         "text": {
+          "type": "plain",
+          "text": "соответствующие строки матрицы"
+         }
+        }
+       ]
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "И их обозначения"
+      }
+     },
+     {
+      "type": "quote",
+      "content": "blocks",
+      "pullquote": false,
+      "blocks": [
+       {
+        "type": "paragraph",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "R_1\\leftrightarrow R_2"
+          },
+          {
+           "type": "plain",
+           "text": " - поменять строки местами"
+          }
+         ]
+        }
+       },
+       {
+        "type": "paragraph",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "$R_1\\to xR_1"
+          },
+          {
+           "type": "plain",
+           "text": " - умножить строку на число "
+          },
+          {
+           "type": "math",
+           "source": "x\\in\\mathbb{R}$"
+          }
+         ]
+        }
+       },
+       {
+        "type": "paragraph",
+        "text": {
+         "type": "concat",
+         "text": [
+          {
+           "type": "math",
+           "source": "R_2\\to R_2+xR_1"
+          },
+          {
+           "type": "plain",
+           "text": " - прибавить к строке другую строку умноженную на "
+          },
+          {
+           "type": "math",
+           "source": "x\\in\\mathbb{R}$"
+          }
+         ]
+        }
+       }
+      ],
+      "caption": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Действия над матрицей:"
+      }
+     },
+     {
+      "type": "list",
+      "kind": "ordered",
+      "reversed": false,
+      "items": [
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_2\\to -\\frac{1}{3}R_2"
+          }
+         }
+        ],
+        "num": "1"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_1\\to R_1+(-1)R_3"
+          }
+         }
+        ],
+        "num": "2"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_3\\to R_3+(-1)R_2"
+          }
+         }
+        ],
+        "num": "3"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_2\\leftrightarrow R_3"
+          }
+         }
+        ],
+        "num": "4"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_3\\leftrightarrow R_4"
+          }
+         }
+        ],
+        "num": "5"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_4\\to R_4+(-1)R_1"
+          }
+         }
+        ],
+        "num": "6"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_3\\to R_3+(-1)R_2"
+          }
+         }
+        ],
+        "num": "7"
+       },
+       {
+        "task_state": "none",
+        "content": "blocks",
+        "blocks": [
+         {
+          "type": "paragraph",
+          "text": {
+           "type": "math",
+           "source": "R_1\\to R_1+(-1)R_2"
+          }
+         }
+        ],
+        "num": "8"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Результат действий над матрицей:"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\left(\\begin{array}{cccc|c} 4&-3&0&-5&1\\\\ 0&4&1&4&1\\\\ \\lambda&0&0&0&1 \\end{array}\\right)"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Записываем систему"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases} 4x_1-3x_2-5x_4=1\\\\ 4x_2+x_3+4x_4=1\\\\ \\lambda x_1=1"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "при выражении "
+        },
+        {
+         "type": "math",
+         "source": "x_1"
+        },
+        {
+         "type": "plain",
+         "text": " из последней строчки мы получаем дробь вида "
+        },
+        {
+         "type": "math",
+         "source": "\\frac{1}{\\lambda}"
+        },
+        {
+         "type": "plain",
+         "text": ", значит:"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  \\text{}\\lambda=0=>\\text{решений нет}\\\\ \\lambda\\ne0=>\\text{продолжаем решение}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Так как у нас всего неизвестных переменных 4 ("
+        },
+        {
+         "type": "math",
+         "source": "x_1,x_2,x_3,x_4"
+        },
+        {
+         "type": "plain",
+         "text": "), а базисных 2 ("
+        },
+        {
+         "type": "math",
+         "source": "x_1,x_2"
+        },
+        {
+         "type": "plain",
+         "text": "), значит оставшиеся переменные являются свободными ("
+        },
+        {
+         "type": "math",
+         "source": "x_3,x_4"
+        },
+        {
+         "type": "plain",
+         "text": ") "
+        }
+       ]
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "empty"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Сначала мы должны выразить базисные переменные"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  4x_1-3x_2-5x_4=1\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Теперь подставляем в первую строчку"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  \\frac{4}{\\lambda}-3(\\frac{1-x_3-4x_4}{4})-5x_4=1\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  \\frac{4}{\\lambda}-\\frac{3-3x_3-12x_4}{4}-5x_4=1\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  \\frac{16}{\\lambda}-(3-3x_3-12x_4)-20x_4=4\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  \\frac{16}{\\lambda}+3x_3-8x_4=7\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Теперь мы можем выбрать какую переменную выражать. Например, будем выражать "
+        },
+        {
+         "type": "math",
+         "source": "x_3"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  3x_3=7-\\frac{16}{\\lambda}+8x_4\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}  x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\  x_2=\\frac{1-x_3-4x_4}{4}\\\\  x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "Теперь мы должны избавиться от "
+        },
+        {
+         "type": "math",
+         "source": "x_3"
+        },
+        {
+         "type": "plain",
+         "text": " во всех остальных строчках"
+        }
+       ]
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}   x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\ x_2=\\frac{1-\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4-4x_4}{4}\\\\   x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}   x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\ 3x_2=\\frac{3-7-\\frac{16}{\\lambda}+8x_4-4x_4}{4}\\\\   x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}   x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\ 3x_2=\\frac{4x_4-4-16\\frac{1}{\\lambda}}{4}\\\\   x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}   x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\ x_2=\\frac{x_4-1-\\frac{4}{\\lambda}}{3}\\\\   x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}   x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}x_4\\\\ x_2=\\frac{1}{3}x_4-\\frac{1}{3}-\\frac{4}{3\\lambda}\\\\   x_1=\\frac{1}{\\lambda}"
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "plain",
+       "text": "Итог"
+      }
+     },
+     {
+      "type": "math",
+      "formula": "\\begin{cases}    x_1=\\frac{1}{\\lambda},\\quad\\lambda\\ne0\\\\ x_2=\\frac{1}{3}t-\\frac{1}{3}-\\frac{4}{3\\lambda} \\\\ x_3=\\frac{7}{3}-\\frac{16}{3\\lambda}+\\frac{8}{3}t\\\\ x_4=t,\\quad t\\in\\mathbb{R}"
+     }
+    ]
+   }
+  },
+  {
+   "id": 17352,
+   "type": "message",
+   "date": "2026-11-12T12:47:29",
+   "date_unixtime": "1794476849",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "reply_to_message_id": 17350,
+   "file": "files/algem-8.2-task-a.pdf",
+   "file_name": "algem-8.2-task-a.pdf",
+   "file_size": 1350754,
+   "mime_type": "application/pdf",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 17461,
+   "type": "message",
+   "date": "2026-11-12T20:49:26",
+   "date_unixtime": "1794505766",
+   "from": "Даниил",
+   "from_id": "user7473527556",
+   "rich_message": {
+    "rtl": false,
+    "part": false,
+    "blocks": [
+     {
+      "type": "heading",
+      "level": 2,
+      "text": {
+       "type": "plain",
+       "text": "Важное про определители:"
+      }
+     },
+     {
+      "type": "paragraph",
+      "text": {
+       "type": "concat",
+       "text": [
+        {
+         "type": "plain",
+         "text": "\n1. Если все элементы в строке или столбце равны нулю, то и определитель равен нулю\n2. Если в числителе если одинаковые или пропорциональные строки, то определитель равен нулю\n3. Если матрица умножается на число "
+        },
+        {
+         "type": "math",
+         "source": "k"
+        },
+        {
+         "type": "plain",
+         "text": ", то все элементы матрицы также умножаются на это число, а определитель по итогу станет равен "
+        },
+        {
+         "type": "math",
+         "source": "k^n\\det{A}"
+        },
+        {
+         "type": "plain",
+         "text": " (так как при вынесении числа за определитель, он умножается на него, а тут мы выносим умножение со всех строк или столбцов, которых у нас "
+        },
+        {
+         "type": "math",
+         "source": "n"
+        },
+        {
+         "type": "plain",
+         "text": " => определитель увеличивается в "
+        },
+        {
+         "type": "math",
+         "source": "k^n"
+        },
+        {
+         "type": "plain",
+         "text": " раз)"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  }
+ ]
+}
