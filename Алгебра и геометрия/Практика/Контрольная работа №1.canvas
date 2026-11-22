@@ -1,0 +1,61 @@
+{
+	"nodes":[
+		{"id":"7b92868492545a10","type":"group","x":-40,"y":-60,"width":4600,"height":6820,"label":"Контрольная работа №1 по алгебре и геометрии"},
+		{"id":"b4734865425feeaa","type":"file","file":"Алгебра и геометрия/Практика/00 - Контрольная работа №1.md","x":0,"y":0,"width":720,"height":720,"color":"#f5cba7"},
+		{"id":"4e2fe981b29ee11b","type":"file","file":"Алгебра и геометрия/Практика/01 - Метод Крамера.md","x":760,"y":0,"width":720,"height":1500,"color":"#efc19a"},
+		{"id":"517ee5bb9cda1a2a","type":"file","file":"Алгебра и геометрия/Практика/02 - Матричные уравнения.md","x":1520,"y":0,"width":720,"height":1600,"color":"#e8b88d"},
+		{"id":"79317de23f0749d0","type":"file","file":"Алгебра и геометрия/Практика/06 - Умножение матриц.md","x":0,"y":2000,"width":720,"height":740,"color":"#cf915a"},
+		{"id":"2b73a41ba5ef542e","type":"file","file":"Алгебра и геометрия/Практика/07 - Поиск определителя.md","x":760,"y":2000,"width":720,"height":1000,"color":"#c8874d"},
+		{"id":"a83bdceca5ffb82d","type":"file","file":"Алгебра и геометрия/Практика/08 - Системы с параметром.md","x":1520,"y":2000,"width":720,"height":1480,"color":"#c27d40"},
+		{"id":"1bd812cb504e1427","type":"file","file":"Алгебра и геометрия/Практика/09 - №8.2 Исследование системы с параметром.md","x":2280,"y":2000,"width":720,"height":2480,"color":"#bc7334"},
+		{"id":"305fc388e69f6342","type":"file","file":"Алгебра и геометрия/Практика/Решение уравнений комплексных чисел.md","x":3040,"y":2000,"width":720,"height":2180,"color":"#b56a27"},
+		{"id":"7f0bbe4229cfdd24","type":"file","file":"Алгебра и геометрия/Практика/Тригонометрическая формула комплексных чисел.md","x":3800,"y":2000,"width":720,"height":4700,"color":"#af601a"},
+		{"id":"42db0b956af67442","type":"file","file":"Алгебра и геометрия/Практика/03 - Элементарные преобразования.md","x":2280,"y":0,"width":720,"height":500,"color":"#e2ae81"},
+		{"id":"9e779f6bee9cd564","type":"file","file":"Алгебра и геометрия/Практика/04 - Метод Гаусса.md","x":3040,"y":0,"width":720,"height":1140,"color":"#dca474"},
+		{"id":"b0d1cb7c2b70a3a4","type":"file","file":"Алгебра и геометрия/Практика/05 - Обратная матрица через алгебраическое дополнение.md","x":3800,"y":0,"width":720,"height":1940,"color":"#d59a67"}
+	],
+	"edges":[
+		{"id":"922ce1e6af41e3a2","fromNode":"b4734865425feeaa","fromSide":"right","toNode":"4e2fe981b29ee11b","toSide":"left"},
+		{"id":"3c984a24b9c429ca","fromNode":"4e2fe981b29ee11b","fromSide":"right","toNode":"517ee5bb9cda1a2a","toSide":"left"},
+		{"id":"931a4c4555e1db7e","fromNode":"517ee5bb9cda1a2a","fromSide":"right","toNode":"42db0b956af67442","toSide":"left"},
+		{"id":"81fb339258e4d27e","fromNode":"42db0b956af67442","fromSide":"right","toNode":"9e779f6bee9cd564","toSide":"left"},
+		{"id":"419f4fe020864d39","fromNode":"9e779f6bee9cd564","fromSide":"right","toNode":"b0d1cb7c2b70a3a4","toSide":"left"},
+		{"id":"b7d52b20cf1cb80b","fromNode":"b0d1cb7c2b70a3a4","fromSide":"bottom","toNode":"79317de23f0749d0","toSide":"top"},
+		{"id":"196161a9cf8169b1","fromNode":"79317de23f0749d0","fromSide":"right","toNode":"2b73a41ba5ef542e","toSide":"left"},
+		{"id":"2d59a32a99ed5ebe","fromNode":"2b73a41ba5ef542e","fromSide":"right","toNode":"a83bdceca5ffb82d","toSide":"left"},
+		{"id":"bbc14ebbe24bca87","fromNode":"a83bdceca5ffb82d","fromSide":"right","toNode":"1bd812cb504e1427","toSide":"left"},
+		{"id":"e5e2ab29955b7364","fromNode":"1bd812cb504e1427","fromSide":"right","toNode":"305fc388e69f6342","toSide":"left"},
+		{"id":"a2eeb454d134955a","fromNode":"305fc388e69f6342","fromSide":"right","toNode":"7f0bbe4229cfdd24","toSide":"left"},
+		{
+			"id":"0137dcb022ef39fb",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2b73a41ba5ef542e",
+			"fromSide":"left",
+			"toNode":"79317de23f0749d0",
+			"toSide":"right"
+		},
+		{
+			"id":"878e9f558339f772",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2b73a41ba5ef542e",
+			"fromSide":"left",
+			"toNode":"79317de23f0749d0",
+			"toSide":"right"
+		},
+		{
+			"id":"eb45fd360d97a24a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2b73a41ba5ef542e",
+			"fromSide":"left",
+			"toNode":"79317de23f0749d0",
+			"toSide":"bottom"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

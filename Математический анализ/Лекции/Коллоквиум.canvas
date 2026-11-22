@@ -1,0 +1,52 @@
+{
+	"nodes":[
+		{"id":"7684319e1b429ad5","type":"group","x":-40,"y":-60,"width":6120,"height":7660,"label":"Коллоквиум по математическому анализу"},
+		{"id":"e32684b27b95e909","type":"file","file":"Математический анализ/Лекции/09 - Программа коллоквиума по математическому анализу.md","x":0,"y":0,"width":720,"height":1120,"color":"#aed6f1"},
+		{"id":"348334896a68f812","type":"file","file":"Математический анализ/Лекции/01 - Множества натуральных целых рациональных и действительных чисел Аксиомы числовой прямой.md","x":760,"y":0,"width":720,"height":2380,"color":"#a7cfeb"},
+		{"id":"6bd2aa399dac946d","type":"file","file":"Математический анализ/Лекции/04 - Элементарные свойства пределов числовых последовательностей.md","x":3040,"y":0,"width":720,"height":2180,"color":"#90bcd8"},
+		{"id":"29a279764017f2ed","type":"file","file":"Математический анализ/Лекции/05 - Первый замечательный предел и следствия из него.md","x":3800,"y":0,"width":720,"height":3280,"color":"#89b5d2"},
+		{"id":"4eaede5fe878f78e","type":"file","file":"Математический анализ/Лекции/06 - Число e как предел числовой последовательности.md","x":4560,"y":0,"width":720,"height":1980,"color":"#82aecc"},
+		{"id":"aed16dc0cf0b9cd7","type":"file","file":"Математический анализ/Лекции/07 - Конспект Пределы функций.md","x":5320,"y":0,"width":720,"height":3020,"color":"#7aa8c6"},
+		{"id":"4d419b1b673bd475","type":"file","file":"Математический анализ/Лекции/02 - Доказательство по индукции Вывод формулы бинома Ньютона.md","x":1520,"y":0,"width":720,"height":2680,"color":"#9fc9e5"},
+		{"id":"b97706ca828bca03","type":"file","file":"Математический анализ/Лекции/03 - Числовые последовательности примеры Определение предела.md","x":2280,"y":0,"width":720,"height":820,"color":"#98c2df"},
+		{"id":"f98dff7e4c6428da","type":"file","file":"Математический анализ/Лекции/18 - Сравнение бесконечно малых величин.md","x":1520,"y":6000,"width":720,"height":1500,"color":"#306688"},
+		{"id":"7d1afcc4f14a3e3e","type":"file","file":"Математический анализ/Лекции/19 - Определение и свойства непрерывных в точке функций.md","x":2280,"y":6000,"width":720,"height":2260,"color":"#295f82"},
+		{"id":"7972d33e5901a19b","type":"file","file":"Математический анализ/Лекции/20 - Левый и правый предел функции в точке Классификация точек разрыва с примерами.md","x":3040,"y":6000,"width":720,"height":1880,"color":"#21597c"},
+		{"id":"e80e952eb9d8e96c","type":"file","file":"Математический анализ/Лекции/21 - Свойства функций непрерывных на отрезке.md","x":3800,"y":6000,"width":720,"height":2320,"color":"#1a5276"},
+		{"id":"f21449273d7cee9d","type":"file","file":"Математический анализ/Лекции/14 - Два определения предела функции в точке их равносильность.md","x":3800,"y":3760,"width":720,"height":1460,"color":"#4e80a1"},
+		{"id":"91799e2786d37484","type":"file","file":"Математический анализ/Лекции/15 - Элементарные свойства пределов функций.md","x":4560,"y":3760,"width":720,"height":1240,"color":"#467a9b"},
+		{"id":"36e8b5359309cc62","type":"file","file":"Математический анализ/Лекции/10 - Счетные множества Равномощные множества Счетность множества рациональных чисел Несчетность множества действительных чисел.md","x":760,"y":3760,"width":720,"height":2060,"color":"#6b9bba"},
+		{"id":"e4d58fed8a728e7e","type":"file","file":"Математический анализ/Лекции/11 - Арифметические свойства пределов числовых последовательностей.md","x":1520,"y":3760,"width":720,"height":1880,"color":"#6494b4"},
+		{"id":"7df7ffe0297c79bf","type":"file","file":"Математический анализ/Лекции/12 - Лемма о вложенных отрезках.md","x":2280,"y":3760,"width":720,"height":1140,"color":"#5d8dad"},
+		{"id":"f893697b59048119","type":"file","file":"Математический анализ/Лекции/13 - Критерий Коши сходимости числовой последовательности.md","x":3040,"y":3760,"width":720,"height":1240,"color":"#5587a7"},
+		{"id":"d4e518ca6eaac8d8","type":"file","file":"Математический анализ/Лекции/08 - Модуль Понятие производной и её применение.md","x":0,"y":3760,"width":720,"height":2120,"color":"#73a1c0"},
+		{"id":"a80270815fe85df2","type":"file","file":"Математический анализ/Лекции/16 - Арифметические свойства пределов функций.md","x":0,"y":6000,"width":720,"height":2320,"color":"#3f7395"},
+		{"id":"8a3c0ed16bfe1684","type":"file","file":"Математический анализ/Лекции/17 - Второй замечательный предел и следствия из него.md","x":760,"y":6000,"width":720,"height":1780,"color":"#386c8f"}
+	],
+	"edges":[
+		{"id":"d810a485ed03241b","fromNode":"e32684b27b95e909","fromSide":"right","toNode":"348334896a68f812","toSide":"left"},
+		{"id":"5d05ad7853c1f76e","fromNode":"348334896a68f812","fromSide":"right","toNode":"4d419b1b673bd475","toSide":"left"},
+		{"id":"85813dbad3c681d0","fromNode":"4d419b1b673bd475","fromSide":"right","toNode":"b97706ca828bca03","toSide":"left"},
+		{"id":"c59c0996daeee6f5","fromNode":"b97706ca828bca03","fromSide":"right","toNode":"6bd2aa399dac946d","toSide":"left"},
+		{"id":"6cfc7403d75e173e","fromNode":"6bd2aa399dac946d","fromSide":"right","toNode":"29a279764017f2ed","toSide":"left"},
+		{"id":"2978aa2447c462dd","fromNode":"29a279764017f2ed","fromSide":"right","toNode":"4eaede5fe878f78e","toSide":"left"},
+		{"id":"f78df0cac5e40c02","fromNode":"4eaede5fe878f78e","fromSide":"right","toNode":"aed16dc0cf0b9cd7","toSide":"left"},
+		{"id":"2f01b7210760474f","fromNode":"aed16dc0cf0b9cd7","fromSide":"bottom","toNode":"d4e518ca6eaac8d8","toSide":"top"},
+		{"id":"73931bdb2a0df3db","fromNode":"d4e518ca6eaac8d8","fromSide":"right","toNode":"36e8b5359309cc62","toSide":"left"},
+		{"id":"ca0fa5f6b8a88062","fromNode":"36e8b5359309cc62","fromSide":"right","toNode":"e4d58fed8a728e7e","toSide":"left"},
+		{"id":"bdabe898736a3566","fromNode":"e4d58fed8a728e7e","fromSide":"right","toNode":"7df7ffe0297c79bf","toSide":"left"},
+		{"id":"4f309ffea518f32c","fromNode":"7df7ffe0297c79bf","fromSide":"right","toNode":"f893697b59048119","toSide":"left"},
+		{"id":"9136682575250def","fromNode":"f893697b59048119","fromSide":"right","toNode":"f21449273d7cee9d","toSide":"left"},
+		{"id":"21599e3e9c8fe21d","fromNode":"f21449273d7cee9d","fromSide":"right","toNode":"91799e2786d37484","toSide":"left"},
+		{"id":"fbdaa35adf9c1e2a","toFloating":false,"fromNode":"91799e2786d37484","fromSide":"bottom","toNode":"a80270815fe85df2","toSide":"top"},
+		{"id":"9ef307590d273e34","fromNode":"a80270815fe85df2","fromSide":"right","toNode":"8a3c0ed16bfe1684","toSide":"left"},
+		{"id":"8099f4efbacea67c","fromNode":"8a3c0ed16bfe1684","fromSide":"right","toNode":"f98dff7e4c6428da","toSide":"left"},
+		{"id":"04d42f8ac2acaf12","fromNode":"f98dff7e4c6428da","fromSide":"right","toNode":"7d1afcc4f14a3e3e","toSide":"left"},
+		{"id":"bd47d5552c7f47e8","fromNode":"7d1afcc4f14a3e3e","fromSide":"right","toNode":"7972d33e5901a19b","toSide":"left"},
+		{"id":"f37cb990c801f97b","fromNode":"7972d33e5901a19b","fromSide":"right","toNode":"e80e952eb9d8e96c","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

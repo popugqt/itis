@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"12da86a78c49ea20","type":"group","x":-40,"y":-60,"width":6120,"height":6500,"label":"Коллоквиум по дискретной математике"},
+		{"id":"30877432d1026706","type":"file","file":"Дискретная математика/Лекции/00 - Программа коллоквиума.md","x":0,"y":0,"width":720,"height":1680,"color":"#d7bde2"},
+		{"id":"d7e805da846a32c3","type":"file","file":"Дискретная математика/Лекции/01 - Булевы функции и основные соотношения.md","x":760,"y":0,"width":720,"height":5000,"color":"#c5a8d2"},
+		{"id":"73c8eb5bb682575e","type":"file","file":"Дискретная математика/Лекции/02 - Литералы, ДНФ, СДНФ, КНФ и СКНФ.md","x":1520,"y":0,"width":720,"height":3300,"color":"#b494c1"},
+		{"id":"e48478dcb74f2134","type":"file","file":"Дискретная математика/Лекции/03 - Импликанты и сокращённая ДНФ.md","x":2280,"y":0,"width":720,"height":8640,"color":"#a27fb1"},
+		{"id":"0853964b50af03b9","type":"file","file":"Дискретная математика/Лекции/04 - Многочлены Жегалкина.md","x":3040,"y":0,"width":720,"height":3480,"color":"#906aa0"},
+		{"id":"cbee3772a0770217","type":"file","file":"Дискретная математика/Лекции/05 - Линейные, самодвойственные и монотонные функции.md","x":3800,"y":0,"width":720,"height":5400,"color":"#7e5590"},
+		{"id":"dbdde131ca3766e4","type":"file","file":"Дискретная математика/Лекции/06 - Формулы над классом и замыкание.md","x":4560,"y":0,"width":720,"height":3520,"color":"#6d417f"},
+		{"id":"6c15c0c8e9df4696","type":"file","file":"Дискретная математика/Лекции/07 - Полные классы, теорема Поста и базисы.md","x":5320,"y":0,"width":720,"height":5400,"color":"#5b2c6f"}
+	],
+	"edges":[
+		{"id":"bb81e3c29b621792","fromNode":"30877432d1026706","fromSide":"right","toNode":"d7e805da846a32c3","toSide":"left"},
+		{"id":"c87a171ac826a6fc","fromNode":"d7e805da846a32c3","fromSide":"right","toNode":"73c8eb5bb682575e","toSide":"left"},
+		{"id":"5d2cce8038a39d5e","fromNode":"73c8eb5bb682575e","fromSide":"right","toNode":"e48478dcb74f2134","toSide":"left"},
+		{"id":"71722f244f58d669","fromNode":"e48478dcb74f2134","fromSide":"right","toNode":"0853964b50af03b9","toSide":"left"},
+		{"id":"21a278f64f7fd633","fromNode":"0853964b50af03b9","fromSide":"right","toNode":"cbee3772a0770217","toSide":"left"},
+		{"id":"d58e72e310275dff","fromNode":"cbee3772a0770217","fromSide":"right","toNode":"dbdde131ca3766e4","toSide":"left"},
+		{"id":"11a11f5125227c37","fromNode":"dbdde131ca3766e4","fromSide":"right","toNode":"6c15c0c8e9df4696","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,165 @@
+{
+	"nodes": [
+		{
+			"id": "d37dc2c9a7a5236b",
+			"type": "group",
+			"x": -40,
+			"y": -60,
+			"width": 6880,
+			"height": 6720,
+			"label": "Контрольная работа по математическому анализу"
+		},
+		{
+			"id": "64b858f9a3e247cb",
+			"type": "file",
+			"file": "Математический анализ/Практика/00 - Навигация.md",
+			"x": 0,
+			"y": 0,
+			"width": 720,
+			"height": 1400,
+			"color": "#a2d9ce"
+		},
+		{
+			"id": "2c083eb8cb37f0a7",
+			"type": "file",
+			"file": "Математический анализ/Практика/01 - Формулы и правила производных.md",
+			"x": 760,
+			"y": 0,
+			"width": 720,
+			"height": 5960,
+			"color": "#90cdc1"
+		},
+		{
+			"id": "bd4d3fd81b6ee7b3",
+			"type": "file",
+			"file": "Математический анализ/Практика/02 - Производные, параметрическая и неявная функции.md",
+			"x": 1520,
+			"y": 0,
+			"width": 720,
+			"height": 6600,
+			"color": "#7ec1b4"
+		},
+		{
+			"id": "2667a40844853040",
+			"type": "file",
+			"file": "Математический анализ/Практика/03 - Функции нескольких переменных.md",
+			"x": 2280,
+			"y": 0,
+			"width": 720,
+			"height": 6600,
+			"color": "#6cb5a6"
+		},
+		{
+			"id": "719e01fcd3fe22a4",
+			"type": "file",
+			"file": "Математический анализ/Практика/04 - Производные высших порядков и формула Лейбница.md",
+			"x": 3040,
+			"y": 0,
+			"width": 720,
+			"height": 4480,
+			"color": "#5aa899"
+		},
+		{
+			"id": "ecd3ada8b4f2222d",
+			"type": "file",
+			"file": "Математический анализ/Практика/05 - Пределы и замечательные пределы.md",
+			"x": 3800,
+			"y": 0,
+			"width": 720,
+			"height": 6600,
+			"color": "#479c8c"
+		},
+		{
+			"id": "f73bb387d080589a",
+			"type": "file",
+			"file": "Математический анализ/Практика/06 - Полное исследование функции.md",
+			"x": 4560,
+			"y": 0,
+			"width": 720,
+			"height": 6420,
+			"color": "#35907e"
+		},
+		{
+			"id": "9a2145128edfed86",
+			"type": "file",
+			"file": "Математический анализ/Практика/07 - Исследование функций, разобранные примеры.md",
+			"x": 5320,
+			"y": 0,
+			"width": 720,
+			"height": 6600,
+			"color": "#238471"
+		},
+		{
+			"id": "89a30fd54c7b2c1d",
+			"type": "file",
+			"file": "Математический анализ/Практика/Условия контрольной.md",
+			"x": 6080,
+			"y": 0,
+			"width": 720,
+			"height": 5120,
+			"color": "#117864"
+		}
+	],
+	"edges": [
+		{
+			"id": "2e9d34119f3374ce",
+			"fromNode": "64b858f9a3e247cb",
+			"fromSide": "right",
+			"toNode": "2c083eb8cb37f0a7",
+			"toSide": "left"
+		},
+		{
+			"id": "bb1c863e2601a746",
+			"fromNode": "2c083eb8cb37f0a7",
+			"fromSide": "right",
+			"toNode": "bd4d3fd81b6ee7b3",
+			"toSide": "left"
+		},
+		{
+			"id": "b7a05814d32feb3e",
+			"fromNode": "bd4d3fd81b6ee7b3",
+			"fromSide": "right",
+			"toNode": "2667a40844853040",
+			"toSide": "left"
+		},
+		{
+			"id": "248ac9ed336de7da",
+			"fromNode": "2667a40844853040",
+			"fromSide": "right",
+			"toNode": "719e01fcd3fe22a4",
+			"toSide": "left"
+		},
+		{
+			"id": "3b41a3dbd199b364",
+			"fromNode": "719e01fcd3fe22a4",
+			"fromSide": "right",
+			"toNode": "ecd3ada8b4f2222d",
+			"toSide": "left"
+		},
+		{
+			"id": "b054c24026cdea5b",
+			"fromNode": "ecd3ada8b4f2222d",
+			"fromSide": "right",
+			"toNode": "f73bb387d080589a",
+			"toSide": "left"
+		},
+		{
+			"id": "3bd39f917c106964",
+			"fromNode": "f73bb387d080589a",
+			"fromSide": "right",
+			"toNode": "9a2145128edfed86",
+			"toSide": "left"
+		},
+		{
+			"id": "0e2adcd93c0a5eb2",
+			"fromNode": "9a2145128edfed86",
+			"fromSide": "right",
+			"toNode": "89a30fd54c7b2c1d",
+			"toSide": "left"
+		}
+	],
+	"metadata": {
+		"version": "1.0-1.0",
+		"frontmatter": {}
+	}
+}
